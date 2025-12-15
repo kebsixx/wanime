@@ -11,9 +11,13 @@
   },
   "dependencies": {
     "@consumet/extensions": "^1.8.7",
+    "cheerio": "^1.1.2",
     "next": "16.0.10",
+    "nextjs-toploader": "^3.9.17",
+    "nprogress": "^0.2.0",
     "react": "19.2.1",
-    "react-dom": "19.2.1"
+    "react-dom": "19.2.1",
+    "react-player": "^3.4.0"
   },
   "devDependencies": {
     "@biomejs/biome": "2.2.0",
